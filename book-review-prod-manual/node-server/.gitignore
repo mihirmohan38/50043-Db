@@ -1,0 +1,17 @@
+# localfiles
+yarn.lock
+requests.rest
+.env
+node_modules
+.DS_Store
+
+# terraform
+.terraform/
+terraform*
+*.log
+
+# aws
+.aws/
+
+# config files
+BookServerSetUp.sh

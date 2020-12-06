@@ -1,0 +1,13 @@
+# data file
+sample_data/
+
+# localfile
+.DS_Store
+
+# terraform
+.terraform/
+terraform*
+*.log
+
+# aws
+.aws/

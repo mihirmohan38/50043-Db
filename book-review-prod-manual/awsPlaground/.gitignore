@@ -1,0 +1,10 @@
+# localfile
+.DS_Store
+
+# terraform
+.terraform/
+terraform*
+*.log
+
+# aws
+.aws/
